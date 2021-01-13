@@ -2,7 +2,9 @@
 This is just  random text in the body 
 ## this is a level 2 heading 
 
-if you want to **bold** text surround text with double stars 
+if you want to **bold** text surround text with double stars
+
+if you want to *italicize text* just surround word with single star
 
 ## this is a level 3 heading
 
@@ -10,7 +12,6 @@ if you want to make a list
 
 - item 1
 - item 2
-- item 3
 
 if you want to make a numbered list: 
 
